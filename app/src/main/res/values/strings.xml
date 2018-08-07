@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitcoinPrice</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="last_offer">Last Offer: </string>
+    <string name="lowest_price">Lowest Price: </string>
+    <string name="highest_price">Highest Price:</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="error_no_connection">Erro: Sem conexão WIFI ou Rede Móvel</string>
+    <string name="waiting_for_data">Obtendo Dados...</string>
+    <string name="searching_data">Carregando...</string>
+    <string name="total_de_bitcoin">Total de Bitcoin:</string>
+    <string name="total_em_reais">Total em Reais:</string>
+    <string name="total_investido">Total Investido:</string>
+    <string name="lucro">Lucro:</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_option_investido"
+        android:title="Novo Valor Investido">
+    </item>
+    <item android:id="@+id/menu_optioo_total_bitcoin"
+        android:title="Novo Valor de Bitcoin">
+    </item>
+</menu>
